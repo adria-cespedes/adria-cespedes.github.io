@@ -17,26 +17,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - type: grid_section
-    title: Trusted by
-    subtitle: Who I worked with
-    align: center
-    grid_items:
-      - image: images/logo_coverfy_red.svg
-        image_alt: Logo Coverfy
-        image_align: center
-      - image: images/seidor-azul.svg
-        image_alt: Logo Seidor
-        image_align: center
-      - image: images/UAB-2linies.svg
-        image_alt: Logo UAB
-        image_align: center
-      - image: images/logo-ena.svg
-        image_alt: Logo Enalquiler
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - title: Let's talk
     subtitle: Message me
     actions:
@@ -67,6 +47,26 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+  - type: grid_section
+    title: Trusted by
+    subtitle: Who I worked with
+    align: center
+    grid_items:
+      - image: images/logo_coverfy_red.svg
+        image_alt: Logo Coverfy
+        image_align: center
+      - image: images/seidor-azul.svg
+        image_alt: Logo Seidor
+        image_align: center
+      - image: images/UAB-2linies.svg
+        image_alt: Logo UAB
+        image_align: center
+      - image: images/logo-ena.svg
+        image_alt: Logo Enalquiler
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
 seo:
   title: Adrià Céspedes
   description: Adrià Céspedes
