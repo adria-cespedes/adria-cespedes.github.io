@@ -38,7 +38,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - title: Let's talk
-    subtitle: Contact me
+    subtitle: Message me
     actions:
       - label: You can reach me on LinkedIn
         url: '#https://www.linkedin.com/in/adria-cespedes/'
