@@ -46,7 +46,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - title: Let's talk
-    subtitle: Let's talk
+    subtitle: Contact me
     actions: []
     blog_feed_cols: three
     enable_cards: false
