@@ -47,7 +47,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Privacy Policy",
+                "label": "Legal notice",
                 "url": "/privacy-policy",
                 "style": "link"
             }
