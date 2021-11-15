@@ -1,5 +1,3 @@
-# ✨ smart-aspen ✨
-
 <img src="https://themes.stackbit.com/images/personal-demo-1024x768.png" width="600">
 
 This is a [Hugo](https://gohugo.io) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
