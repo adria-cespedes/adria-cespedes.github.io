@@ -40,7 +40,7 @@ sections:
   - title: Let's talk
     subtitle: Contact me
     actions:
-      - label: Message me from LinkedIn
+      - label: you can reach me on linkedin
         url: '#'
         style: link
         has_icon: false
