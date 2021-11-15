@@ -38,9 +38,6 @@ Master in Project Management by EAE Business School and UPC, Bachelor's Degree i
 
 Also the titles of Higher Technical Certificate in Computer Systems Management in the Network and Higher Technical Certificate in Computer Applications Development by Salesians de Sarrià.
 
-
-
 ## Resume
-
 
 Here's my one-page resume
