@@ -32,9 +32,7 @@ I'm passionate about Agile methodologies, an expert in leading technology projec
 
 ## Credentials
 
-PMP® certified.
-
-Master in Project Management by EAE Business School and UPC, Bachelor's Degree in Information Technology and Services, Information Technology and Services with a major in Management of Services from the “Escuelas Universitarias Gimbernat y Tomàs Cerdà” and the “Universitat Autònoma de Barcelona”.
+PMP® certified and Master in Project Management by EAE Business School and UPC, Bachelor's Degree in Information Technology and Services, Information Technology and Services with a major in Management of Services from the “Escuelas Universitarias Gimbernat y Tomàs Cerdà” and the “Universitat Autònoma de Barcelona”.
 
 Also the titles of Higher Technical Certificate in Computer Systems Management in the Network and Higher Technical Certificate in Computer Applications Development by Salesians de Sarrià.
 
