@@ -25,7 +25,7 @@ sections:
       - image: images/logo_coverfy_red.svg
         image_alt: Logo 1
         image_align: center
-      - image: images/logoSeidor.png
+      - image: images/seidor-azul.svg
         image_alt: Logo 2
         image_align: center
       - image: images/UAB-2linies.svg
