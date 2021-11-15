@@ -49,12 +49,12 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: form_section
-    content: >-
+    content: >
       ## Let's talk
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      Please don't hesitate to contact me. I am looking forward to helping your
+      project grow.
     content_align: left
     form_position: right
     form_width: fifty
