@@ -41,7 +41,7 @@ sections:
     subtitle: Contact me
     actions:
       - label: You can reach me on linkedin
-        url: '#'
+        url: '#https://www.linkedin.com/in/adria-cespedes/'
         style: link
         has_icon: false
         icon: arrow-left
