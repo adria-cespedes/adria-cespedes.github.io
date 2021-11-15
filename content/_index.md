@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Adrià Céspedes.'
     subtitle: Software Developer Manager
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
+    actions: []
     image: images/1624459473400.jpg
     image_alt: A smiling woman
     media_position: right
