@@ -40,4 +40,4 @@ Also the titles of Higher Technical Certificate in Computer Systems Management i
 
 ## Resume
 
-Here's my one-page resume
+Here's attached my one-page resume
