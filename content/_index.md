@@ -42,7 +42,7 @@ sections:
     actions:
       - label: You can reach me on LinkedIn
         url: '#https://www.linkedin.com/in/adria-cespedes/'
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
