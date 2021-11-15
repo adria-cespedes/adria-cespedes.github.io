@@ -48,7 +48,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-    blog_feed_cols: three
+    blog_feed_cols: two
     enable_cards: false
     show_recent: false
     recent_count: 0
