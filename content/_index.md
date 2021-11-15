@@ -6,7 +6,7 @@ sections:
     subtitle: Software Developer Manager
     actions: []
     image: images/1624459473400.jpg
-    image_alt: A smiling woman
+    image_alt: Adrià Céspedes
     media_position: right
     media_width: fifty
     align: left
@@ -23,24 +23,16 @@ sections:
     align: center
     grid_items:
       - image: images/logo_coverfy_red.svg
-        image_alt: Logo 1
+        image_alt: Logo Coverfy
         image_align: center
       - image: images/seidor-azul.svg
-        image_alt: Logo 2
+        image_alt: Logo Seidor
         image_align: center
       - image: images/UAB-2linies.svg
-        image_alt: Logo 3
+        image_alt: Logo UAB
         image_align: center
       - image: images/logo-ena.svg
-        image_alt: Logo 4
-        image_align: center
-      - image_alt: Logo 5
-        image_align: center
-      - image_alt: Logo 6
-        image_align: center
-      - image_alt: Logo 7
-        image_align: center
-      - image_alt: Logo 8
+        image_alt: Logo Enalquiler
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
@@ -68,30 +60,21 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
 seo:
-  title: Stackbit Personal Theme
-  description: The preview of the Personal theme
+  title: Adrià Céspedes
+  description: Adrià Céspedes
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Personal Theme
+      value: Adrià Céspedes
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: Adrià Céspedes
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
       keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Personal Theme
-    - name: 'twitter:description'
-      value: The preview of the Personal theme
-    - name: 'twitter:image'
-      value: images/personal-preview.png
       relativeUrl: true
 layout: advanced
 ---

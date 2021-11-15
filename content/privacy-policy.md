@@ -13,12 +13,6 @@ seo:
     - name: 'og:description'
       value: This is the privacy policy page
       keyName: property
-    - name: 'twitter:card'
-      value: summary
-    - name: 'twitter:title'
-      value: Privacy Policy
-    - name: 'twitter:description'
-      value: This is the privacy policy page
 layout: page
 ---
 This is a static website that does not store cookies in your browser.
