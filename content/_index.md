@@ -45,7 +45,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-  - title: lorem-ipsum
+  - title: Let's talk
     subtitle: Let's talk
     actions: []
     blog_feed_cols: three
