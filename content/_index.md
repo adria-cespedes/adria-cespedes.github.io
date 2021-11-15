@@ -41,7 +41,7 @@ sections:
     subtitle: Message me
     actions:
       - label: You can reach me on LinkedIn
-        url: '#https://www.linkedin.com/in/adria-cespedes/'
+        url: 'https://www.linkedin.com/in/adria-cespedes/'
         style: primary
         has_icon: false
         icon: arrow-left
