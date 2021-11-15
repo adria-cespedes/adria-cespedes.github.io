@@ -46,7 +46,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Let's talk
     actions: []
     blog_feed_cols: three
     enable_cards: false
