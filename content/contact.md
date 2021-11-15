@@ -9,9 +9,6 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >
-      Please don't hesitate to contact me. I am looking forward to helping your
-      project grow.
     content_align: left
     form_position: left
     form_width: fifty
