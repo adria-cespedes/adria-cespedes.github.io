@@ -3,9 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contact Me
-    subtitle: >-
-      Please don't hesitate to contact me. I am looking forward to helping your
-      project grow.
+    subtitle: Please don't hesitate to contact me.
     align: center
     padding_top: medium
     padding_bottom: medium
