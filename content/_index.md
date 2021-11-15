@@ -22,7 +22,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Trusted by
-    subtitle: Who I work with
+    subtitle: Who I worked with
     align: center
     grid_items:
       - image: images/logo_coverfy_red.svg
