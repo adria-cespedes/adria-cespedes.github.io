@@ -28,19 +28,19 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
-![A woman using a laptop](/images/about.jpg)
-
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+I'm passionate about Agile methodologies, an expert in leading technology projects with more than a decade of experience working with Mobile and Web technologies.
 
 ## Credentials
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
+PMP® certified.
 
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+Master in Project Management by EAE Business School and UPC, Bachelor's Degree in Information Technology and Services, Information Technology and Services with a major in Management of Services from the “Escuelas Universitarias Gimbernat y Tomàs Cerdà” and the “Universitat Autònoma de Barcelona”.
+
+Also the titles of Higher Technical Certificate in Computer Systems Management in the Network and Higher Technical Certificate in Computer Applications Development by Salesians de Sarrià.
 
 
 
-## Writing for Action
+## Resume
 
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+
+Here's my one-page resume
