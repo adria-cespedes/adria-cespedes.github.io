@@ -3,8 +3,14 @@ title = "Work"
 slug = "work"
 +++
 
+{{< figure src="/images/rubi-tools-logo-vector.svg" alt="RUBI" width="200px" >}}
+As a Website Owner at [RUBI](https://www.rubi.com/), I am responsible for solving any technical issues that come up in the company projects such as the development of the new RUBI corporate website or the implementation of the new PIM system and advising on the technological needs. I also advise the company about tech systems that need to be implemented.
+Additionally, I am responsible for the current Rubi.com website that receives 200k user views per month.
+
+
+
 {{< figure src="/images/logo_coverfy_red.svg" alt="Coverfy" width="200px" >}}
-As Agile Project Manager at [Coverfy](https://www.coverfy.com/), the Barcelona-based insurtech startup that allows users to manage all insurance and optimize prices and coverage from a mobile device, I am responsible for the definition and leadership of the different projects.
+As an Agile Project Manager at [Coverfy](https://www.coverfy.com/), the Barcelona-based insurtech startup that allows users to manage all insurance and optimize prices and coverage from a mobile device, I am responsible for the definition and leadership of the different projects.
 I grew up a team of 6 developers working on Scrum methodology, improving the team performance by introducing Scrum with a Lean mindset and aligning team goals with business goals.
 
  
